@@ -1,0 +1,28 @@
+05-21 05:07:31.250  9110  9188 I TestRunner: started: notesFlow_shouldEmitAllNotes(com.example.data.RoomRepositoryImplTest)
+05-21 05:07:31.265  9117  9157 E SystemUpdate-DiscoverUpdateManager: ContentProvider.query failed - java.lang.IllegalArgumentException: Unknown authority com.xiaomi.mipicks.dbcache
+05-21 05:07:31.290   616   616 D Zygote  : Forked child process 9211
+05-21 05:07:31.300   500   500 E SELinux : avc:  denied  { find } for pid=4222 uid=10230 name=tethering scontext=u:r:vendor_systemhelper_app:s0:c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+05-21 05:07:31.311  9211  9211 I libc    : SetHeapTaggingLevel: tag level set to 0
+05-21 05:07:31.314   616   616 D Zygote  : Forked child process 9217
+05-21 05:07:31.324  9211  9211 E .android.camer: Unknown bits set in runtime_flags: 0x800000
+05-21 05:07:31.327  9217  9217 E om.miui.galler: Unknown bits set in runtime_flags: 0x800000
+05-21 05:07:31.333  9217  9217 E om.miui.galler: Not starting debugger since process cannot load the jdwp agent.
+05-21 05:07:31.336  9211  9211 E .android.camer: Not starting debugger since process cannot load the jdwp agent.
+05-21 05:07:31.345 21763 21781 W AbstractServiceBroker: calling package is not null : com.xiaomi.discover for service ids : [93] [CONTEXT service_id=259 ]
+05-21 05:07:31.348  1705  2158 D HBMFeatureControl: light lux=18.8325
+05-21 05:07:31.361  1705  2227 D CompatibilityInfo: mCompatibilityFlags - 0
+05-21 05:07:31.361  1705  2227 D CompatibilityInfo: applicationDensity - 440
+05-21 05:07:31.361  1705  2227 D CompatibilityInfo: applicationScale - 1.0
+05-21 05:07:31.365  1705  2957 D CompatibilityInfo: mCompatibilityFlags - 0
+05-21 05:07:31.365  1705  2957 D CompatibilityInfo: applicationDensity - 440
+05-21 05:07:31.365  1705  2957 D CompatibilityInfo: applicationScale - 1.0
+05-21 05:07:31.380  1705  2238 I MiuiNetworkPolicy: updateUidState uid = 10109, uidState = 13
+05-21 05:07:31.380  1705  2238 I MiuiNetworkPolicy: updateUidState uid = 10101, uidState = 13
+05-21 05:07:31.388   815 32179 D AudioPolicyService: updateUidStates_l: appName com.google.android.googlequicksearchbox, appState 1
+05-21 05:07:31.390   815 32179 D AudioFlinger: setRecordSilenced, Uid:10191, silenced 0
+05-21 05:07:31.391   815 32179 I AudioFlinger: create audiotrack for com.google.android.googlequicksearchbox  uid 10191
+05-21 05:07:31.396   815 32179 D AudioPolicyService: updateUidStates_l: appName com.google.android.googlequicksearchbox, appState 1
+05-21 05:07:31.396   815 32179 D AudioFlinger: setRecordSilenced, Uid:10191, silenced 0
+05-21 05:07:31.397   815 32179 I AudioFlinger: create audiotrack for com.google.android.googlequicksearchbox  uid 10191
+05-21 05:07:31.400  2806  6262 I SarService: Receiver polling >>>> Change receiver mode: off
+05-21 05:07:31.402  9110  9188 I TestRunner: finished: notesFlow_shouldEmitAllNotes(com.example.data.RoomRepositoryImplTest)

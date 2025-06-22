@@ -1,0 +1,5 @@
+05-21 05:07:31.676  9110  9188 I TestRunner: started: testMappers(com.example.data.RoomRepositoryImplTest)
+05-21 05:07:31.678  4112  4143 I com.miui.daemo: oneway function results will be dropped but finished with status OK and parcel size 4
+05-21 05:07:31.688   821   918 W DisplayIdentification: Invalid EDID: falling back to serial number due to missing display name.
+05-21 05:07:31.688   821   918 W DisplayIdentification: Invalid EDID: falling back to ASCII text due to missing serial number.
+05-21 05:07:31.692  9110  9188 I TestRunner: finished: testMappers(com.example.data.RoomRepositoryImplTest)

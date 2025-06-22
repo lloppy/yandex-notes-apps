@@ -1,0 +1,7 @@
+05-21 05:07:31.741  9110  9188 I TestRunner: started: addNote_withDuplicateUid_shouldUpdateNote(com.example.data.RoomRepositoryImplTest)
+05-21 05:07:31.744  9217  9217 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+05-21 05:07:31.748  1705  2158 D HBMFeatureControl: light lux=18.8325
+05-21 05:07:31.750  9211  9211 I Perf    : Connecting to perf service.
+05-21 05:07:31.751  9217  9217 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+05-21 05:07:31.771  4112  4143 I com.miui.daemo: oneway function results will be dropped but finished with status OK and parcel size 4
+05-21 05:07:31.793  9110  9188 I TestRunner: finished: addNote_withDuplicateUid_shouldUpdateNote(com.example.data.RoomRepositoryImplTest)

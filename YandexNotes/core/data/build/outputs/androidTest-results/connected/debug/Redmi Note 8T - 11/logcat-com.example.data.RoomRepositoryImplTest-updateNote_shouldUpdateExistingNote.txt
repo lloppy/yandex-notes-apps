@@ -1,0 +1,4 @@
+05-21 05:07:31.460  9110  9188 I TestRunner: started: updateNote_shouldUpdateExistingNote(com.example.data.RoomRepositoryImplTest)
+05-21 05:07:31.498  4112  4143 I com.miui.daemo: oneway function results will be dropped but finished with status OK and parcel size 4
+05-21 05:07:31.502   500   500 E SELinux : avc:  denied  { find } for pid=4222 uid=10230 name=tethering scontext=u:r:vendor_systemhelper_app:s0:c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+05-21 05:07:31.509  9110  9188 I TestRunner: finished: updateNote_shouldUpdateExistingNote(com.example.data.RoomRepositoryImplTest)

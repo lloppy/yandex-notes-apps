@@ -1,0 +1,9 @@
+05-21 05:07:31.590  9110  9188 I TestRunner: started: addNote_shouldInsertNewNote(com.example.data.RoomRepositoryImplTest)
+05-21 05:07:31.600  2806  6262 I SarService: Receiver polling >>>> Change receiver mode: off
+05-21 05:07:31.615  1705  2158 D HBMFeatureControl: light lux=19.17
+05-21 05:07:31.629   499   499 D lowmemorykiller: medium pressure event polling check
+05-21 05:07:31.629   499   499 D lowmemorykiller: thrashing: 1% thrashing_limit: 10%
+05-21 05:07:31.629   499   499 D lowmemorykiller: Not killing for medium pressure event polling check
+05-21 05:07:31.644  4112  4143 I com.miui.daemo: oneway function results will be dropped but finished with status OK and parcel size 4
+05-21 05:07:31.653  9217  9217 I Perf    : Connecting to perf service.
+05-21 05:07:31.671  9110  9188 I TestRunner: finished: addNote_shouldInsertNewNote(com.example.data.RoomRepositoryImplTest)

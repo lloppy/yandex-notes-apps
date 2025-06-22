@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.data.RoomRepositoryImplTest" tests="10" failures="0" errors="0" skipped="0" time="3.012" timestamp="2025-05-21T00:04:25" hostname="localhost">
+  <properties>
+    <property name="device" value="Redmi Note 8T - 11" />
+    <property name="flavor" value="" />
+    <property name="project" value=":core:data" />
+  </properties>
+  <testcase name="unusedMethods_shouldDoNothing" classname="com.example.data.RoomRepositoryImplTest" time="0.075" />
+  <testcase name="notesFlow_shouldEmitAllNotes" classname="com.example.data.RoomRepositoryImplTest" time="0.135" />
+  <testcase name="getNoteByUid_nonExisting_shouldThrow" classname="com.example.data.RoomRepositoryImplTest" time="0.023" />
+  <testcase name="updateNote_shouldUpdateExistingNote" classname="com.example.data.RoomRepositoryImplTest" time="0.058" />
+  <testcase name="deleteNote_shouldRemoveNote" classname="com.example.data.RoomRepositoryImplTest" time="0.061" />
+  <testcase name="addNote_shouldInsertNewNote" classname="com.example.data.RoomRepositoryImplTest" time="0.076" />
+  <testcase name="testMappers" classname="com.example.data.RoomRepositoryImplTest" time="0.038" />
+  <testcase name="updateNote_nonExisting_shouldInsertNewNote" classname="com.example.data.RoomRepositoryImplTest" time="0.028" />
+  <testcase name="addNote_withDuplicateUid_shouldUpdateNote" classname="com.example.data.RoomRepositoryImplTest" time="0.029" />
+  <testcase name="getNoteByUid_shouldReturnCorrectNote" classname="com.example.data.RoomRepositoryImplTest" time="0.104" />
+</testsuite>

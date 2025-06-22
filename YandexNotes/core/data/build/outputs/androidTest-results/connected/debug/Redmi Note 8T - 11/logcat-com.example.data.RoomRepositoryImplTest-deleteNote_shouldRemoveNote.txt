@@ -1,0 +1,8 @@
+05-21 05:07:31.512  9110  9188 I TestRunner: started: deleteNote_shouldRemoveNote(com.example.data.RoomRepositoryImplTest)
+05-21 05:07:31.527  4112  4143 I com.miui.daemo: oneway function results will be dropped but finished with status OK and parcel size 4
+05-21 05:07:31.528   499   499 D lowmemorykiller: medium pressure event triggered
+05-21 05:07:31.528   499   499 D lowmemorykiller: thrashing: 0% thrashing_limit: 10%
+05-21 05:07:31.528   499   499 D lowmemorykiller: Not killing for medium pressure event trigger
+05-21 05:07:31.548  1705  2158 D HBMFeatureControl: light lux=19.17
+05-21 05:07:31.561  4112  4143 I com.miui.daemo: oneway function results will be dropped but finished with status OK and parcel size 4
+05-21 05:07:31.580  9110  9188 I TestRunner: finished: deleteNote_shouldRemoveNote(com.example.data.RoomRepositoryImplTest)

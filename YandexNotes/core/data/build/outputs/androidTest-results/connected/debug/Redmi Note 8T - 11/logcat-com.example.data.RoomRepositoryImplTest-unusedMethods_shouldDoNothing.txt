@@ -1,0 +1,19 @@
+05-21 05:07:31.154  9110  9188 I TestRunner: started: unusedMethods_shouldDoNothing(com.example.data.RoomRepositoryImplTest)
+05-21 05:07:31.161  9117  9157 D WM-PackageManagerHelper: androidx.work.impl.background.systemjob.SystemJobService enabled
+05-21 05:07:31.161  9117  9157 D WM-Schedulers: Created SystemJobScheduler and enabled SystemJobService
+05-21 05:07:31.165  9117  9157 W FirebaseRemoteConfig: No value of type 'FirebaseRemoteConfigValue' exists for parameter key 'isAutoUpdateWorkEnable'.
+05-21 05:07:31.167  9117  9204 D WM-ForceStopRunnable: The default process name was not specified.
+05-21 05:07:31.167  9117  9204 D WM-ForceStopRunnable: Performing cleanup operations.
+05-21 05:07:31.192  9117  9204 D WM-SystemJobScheduler: Reconciling jobs
+05-21 05:07:31.199  2806  6262 I SarService: Receiver polling >>>> Change receiver mode: off
+05-21 05:07:31.204  9117  9204 D WM-ForceStopRunnable: Found unfinished work, scheduling it.
+05-21 05:07:31.215  1705  2158 D HBMFeatureControl: light lux=19.17
+05-21 05:07:31.216  9117  9204 D WM-SystemJobScheduler: Scheduling work ID 1ac16569-50e3-40c3-acf3-54be16f38f34 Job ID 1612
+05-21 05:07:31.227  9117  9198 E xiaomi.discove: No package ID 6e found for ID 0x6e0b000f.
+05-21 05:07:31.230  9117  9198 I FA      : App measurement initialized, version: 125000
+05-21 05:07:31.230  9117  9198 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+05-21 05:07:31.231  9117  9198 I FA      : To enable faster debug mode event logging run:
+05-21 05:07:31.231  9117  9198 I FA      :   adb shell setprop debug.firebase.analytics.app com.xiaomi.discover
+05-21 05:07:31.237  9117  9204 D WM-SystemJobScheduler: Scheduling work ID a3c52217-913f-41b3-8960-a461d8df6f66 Job ID 1614
+05-21 05:07:31.241  9117  9204 D WM-GreedyScheduler: Ignoring WorkSpec {WorkSpec: a3c52217-913f-41b3-8960-a461d8df6f66}, Requires device idle.
+05-21 05:07:31.246  9110  9188 I TestRunner: finished: unusedMethods_shouldDoNothing(com.example.data.RoomRepositoryImplTest)

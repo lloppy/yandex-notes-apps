@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">InstagramNotes</string>
+    <string name="set_content">Описание</string>
+    <string name="set_name">Заголовок</string>
+    <string name="select_color">Выбрать цвет</string>
+    <string name="brightness">Отрегулировать яркость</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="no_created_items">Вы пока не создали заметки!</string>
+    <string name="create">Создать</string>
+    <string name="delete_note">Удалить заметку</string>
+    <string name="sure_delete">Вы уверены что хотите удалить заметку?</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="self_destruct">Добавить дату самоуничтожения</string>
+</resources>

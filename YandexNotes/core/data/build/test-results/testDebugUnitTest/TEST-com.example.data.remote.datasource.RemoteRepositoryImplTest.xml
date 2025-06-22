@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.data.remote.datasource.RemoteRepositoryImplTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-05-21T04:26:40" hostname="DESKTOP-OCC07VR" time="6.16">
+  <properties/>
+  <testcase name="toDto should handle default values correctly" classname="com.example.data.remote.datasource.RemoteRepositoryImplTest" time="5.996"/>
+  <testcase name="toDto should map Note to TodoItemDto correctly" classname="com.example.data.remote.datasource.RemoteRepositoryImplTest" time="0.024"/>
+  <testcase name="toModel should handle default values correctly" classname="com.example.data.remote.datasource.RemoteRepositoryImplTest" time="0.029"/>
+  <testcase name="toModel should handle different importance values" classname="com.example.data.remote.datasource.RemoteRepositoryImplTest" time="0.023"/>
+  <testcase name="toModel should handle invalid color values" classname="com.example.data.remote.datasource.RemoteRepositoryImplTest" time="0.03"/>
+  <testcase name="toDto should correctly convert color to hex string" classname="com.example.data.remote.datasource.RemoteRepositoryImplTest" time="0.036"/>
+  <testcase name="toModel should map TodoItemDto to Note correctly" classname="com.example.data.remote.datasource.RemoteRepositoryImplTest" time="0.021"/>
+  <system-out><![CDATA[WARNING: No manifest file found at .\AndroidManifest.xml.
+Falling back to the Android OS resources only.
+To remove this warning, annotate your test class with @Config(manifest=Config.NONE).
+]]></system-out>
+  <system-err><![CDATA[No such manifest file: .\AndroidManifest.xml
+]]></system-err>
+</testsuite>

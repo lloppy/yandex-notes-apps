@@ -1,0 +1,10 @@
+05-21 05:07:31.698  9110  9188 I TestRunner: started: updateNote_nonExisting_shouldInsertNewNote(com.example.data.RoomRepositoryImplTest)
+05-21 05:07:31.703   500   500 E SELinux : avc:  denied  { find } for pid=4222 uid=10230 name=tethering scontext=u:r:vendor_systemhelper_app:s0:c512,c768 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+05-21 05:07:31.706  4112  4143 I com.miui.daemo: oneway function results will be dropped but finished with status OK and parcel size 4
+05-21 05:07:31.706  9217  9217 E libc    : Access denied finding property "ro.vendor.all_modes.colorpick_adjust"
+05-21 05:07:31.712  9217  9217 D ActivityThread: screenOptimizeSettingsChanged true
+05-21 05:07:31.729   499   499 D lowmemorykiller: medium pressure event polling check
+05-21 05:07:31.730   499   499 D lowmemorykiller: thrashing: 1% thrashing_limit: 10%
+05-21 05:07:31.730   499   499 D lowmemorykiller: Not killing for medium pressure event polling check
+05-21 05:07:31.735  4112  4143 I com.miui.daemo: oneway function results will be dropped but finished with status OK and parcel size 4
+05-21 05:07:31.737  9110  9188 I TestRunner: finished: updateNote_nonExisting_shouldInsertNewNote(com.example.data.RoomRepositoryImplTest)

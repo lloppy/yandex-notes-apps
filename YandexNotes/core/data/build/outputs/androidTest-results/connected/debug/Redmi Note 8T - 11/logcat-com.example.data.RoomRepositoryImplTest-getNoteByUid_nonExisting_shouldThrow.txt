@@ -1,0 +1,3 @@
+05-21 05:07:31.405  9110  9188 I TestRunner: started: getNoteByUid_nonExisting_shouldThrow(com.example.data.RoomRepositoryImplTest)
+05-21 05:07:31.415  1705  2158 D HBMFeatureControl: light lux=18.8325
+05-21 05:07:31.455  9110  9188 I TestRunner: finished: getNoteByUid_nonExisting_shouldThrow(com.example.data.RoomRepositoryImplTest)

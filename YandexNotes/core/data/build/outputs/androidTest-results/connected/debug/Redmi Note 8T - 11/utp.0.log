@@ -1,0 +1,44 @@
+INFO: Constructing runner from config.
+INFO: Configuring Android Instrumentation driver: android_instrumentation_runtime {
+  instrumentation_info {
+    app_package: "com.example.data.test"
+    test_package: "com.example.data.test"
+    test_runner_class: "androidx.test.runner.AndroidJUnitRunner"
+  }
+  instrumentation_args {
+    args_map {
+      key: "additionalTestOutputDir"
+      value: "/sdcard/Android/media/com.example.data.test/additional_test_output"
+    }
+    args_map {
+      key: "class"
+      value: "com.example.data.RoomRepositoryImplTest"
+    }
+  }
+}
+am_instrument_timeout: 31536000
+
+INFO: Configuring AndroidTestApkInstallerPlugin: apks_to_install {
+  apk_paths: "C:\\Users\\ankud\\AndroidStudioProjects\\YandexNotes\\core\\data\\build\\intermediates\\apk\\androidTest\\debug\\data-debug-androidTest.apk"
+  install_options {
+  }
+  uninstall_after_test: true
+}
+
+INFO: No installables found in test fixture. Nothing to install.
+INFO: Installing [C:\Users\ankud\AndroidStudioProjects\YandexNotes\core\data\build\intermediates\apk\androidTest\debug\data-debug-androidTest.apk] on device 149870f9.
+INFO: Start logcat streaming.
+INFO: Running Android Instrumentation driver.
+INFO: Copying files from device to host: /sdcard/Android/media/com.example.data.test/additional_test_output to C:\Users\ankud\AndroidStudioProjects\YandexNotes\core\data\build\outputs\connected_android_test_additional_output\debugAndroidTest\connected\Redmi Note 8T - 11
+INFO: Stop logcat streaming.
+INFO: Uninstalling com.example.data.test for device 149870f9.
+INFO: Execute com.example.data.RoomRepositoryImplTest.unusedMethods_shouldDoNothing: PASSED
+INFO: Execute com.example.data.RoomRepositoryImplTest.notesFlow_shouldEmitAllNotes: PASSED
+INFO: Execute com.example.data.RoomRepositoryImplTest.getNoteByUid_nonExisting_shouldThrow: PASSED
+INFO: Execute com.example.data.RoomRepositoryImplTest.updateNote_shouldUpdateExistingNote: PASSED
+INFO: Execute com.example.data.RoomRepositoryImplTest.deleteNote_shouldRemoveNote: PASSED
+INFO: Execute com.example.data.RoomRepositoryImplTest.addNote_shouldInsertNewNote: PASSED
+INFO: Execute com.example.data.RoomRepositoryImplTest.testMappers: PASSED
+INFO: Execute com.example.data.RoomRepositoryImplTest.updateNote_nonExisting_shouldInsertNewNote: PASSED
+INFO: Execute com.example.data.RoomRepositoryImplTest.addNote_withDuplicateUid_shouldUpdateNote: PASSED
+INFO: Execute com.example.data.RoomRepositoryImplTest.getNoteByUid_shouldReturnCorrectNote: PASSED
