@@ -1,3 +1,7 @@
+# Описание
+>) Пять разных приложений, разные di (вариант с hilt, вариант через кастомную фабрику), разное разделение на модули, разная навигация (пропробовала в одном из приложений новую навигацию с сериализацией), mvvm и mvi
+
+
 ### 1. Khaled Naser @khalednaser
 - https://github.com/khalednaser1/yandex-notes-app
 - https://github.com/lloppy/yandex-notes
