@@ -5,6 +5,10 @@
 
 > По временным затратам - 2-3 дня (4 рабочих часа в одном дне) на реализацию одного приложения.
 
+<br>
+
+# Список работ
+
 ### 1. Khaled Naser @khalednaser
 - https://github.com/khalednaser1/yandex-notes-app
 - https://github.com/lloppy/yandex-notes
