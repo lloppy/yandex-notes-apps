@@ -7,6 +7,11 @@
 
 <br>
 
+# Иллюстрации
+<img width="1917" alt="image" src="https://github.com/user-attachments/assets/9087a6c6-459b-43ab-af40-81b590854e24" />
+
+<br>
+
 # Список работ
 
 ### 1. Khaled Naser @khalednaser
@@ -32,10 +37,4 @@
 
 ### 5. Mikhail Mokhov @grotesquer
 - https://github.com/grotesquer/CyberNotes
-
-
-
-# Иллюстрации
-<img width="1917" alt="image" src="https://github.com/user-attachments/assets/9087a6c6-459b-43ab-af40-81b590854e24" />
-
 
