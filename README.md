@@ -25,6 +25,6 @@
 
 
 # Иллюстрации
-<img width="1442" alt="image" src="https://github.com/user-attachments/assets/e885ee2e-79e1-48cd-8de5-d35867479c6c" />
+<img width="1917" alt="image" src="https://github.com/user-attachments/assets/9087a6c6-459b-43ab-af40-81b590854e24" />
 
 
